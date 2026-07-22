@@ -1,0 +1,12 @@
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\bin\Release\net9.0\Erochy.Core.deps.json
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\bin\Release\net9.0\Erochy.Core.dll
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\bin\Release\net9.0\Erochy.Core.pdb
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.csproj.AssemblyReference.cache
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.AssemblyInfoInputs.cache
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.AssemblyInfo.cs
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.csproj.CoreCompileInputs.cache
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.dll
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\refint\Erochy.Core.dll
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\Erochy.Core.pdb
+C:\Users\alyso\OneDrive\Desktop\erochy engine\Erochy.Core\obj\Release\net9.0\ref\Erochy.Core.dll
