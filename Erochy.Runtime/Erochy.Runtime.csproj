@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.10" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="10.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Erochy.Core\Erochy.Core.csproj" />
+    <ProjectReference Include="..\Erochy.ECS\Erochy.ECS.csproj" />
+    <ProjectReference Include="..\Erochy.Scene\Erochy.Scene.csproj" />
+    <ProjectReference Include="..\Erochy.Assets\Erochy.Assets.csproj" />
+  </ItemGroup>
+
+</Project>
