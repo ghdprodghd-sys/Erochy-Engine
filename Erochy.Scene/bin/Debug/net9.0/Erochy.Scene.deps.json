@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Erochy.Scene/1.0.0": {
+        "dependencies": {
+          "Erochy.ECS": "1.0.0"
+        },
+        "runtime": {
+          "Erochy.Scene.dll": {}
+        }
+      },
+      "Erochy.ECS/1.0.0": {
+        "runtime": {
+          "Erochy.ECS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Erochy.Scene/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Erochy.ECS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
