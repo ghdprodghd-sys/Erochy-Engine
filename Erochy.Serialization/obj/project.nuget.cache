@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cl9gm5kLKcQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alyso\\OneDrive\\Desktop\\erochy engine\\Erochy.Serialization\\Erochy.Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyso\\.nuget\\packages\\system.io.pipelines\\10.0.10\\system.io.pipelines.10.0.10.nupkg.sha512",
+    "C:\\Users\\alyso\\.nuget\\packages\\system.text.encodings.web\\10.0.10\\system.text.encodings.web.10.0.10.nupkg.sha512",
+    "C:\\Users\\alyso\\.nuget\\packages\\system.text.json\\10.0.10\\system.text.json.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
